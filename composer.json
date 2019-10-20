@@ -1,5 +1,16 @@
 {
+  "name": "gtfs/realtime-php",
+  "type": "library",
+  "description": "GTFS-Realtime library for PHP",
+  "keywords": ["proto, protobuf, protocol buffers, gtfs, gtfs-realtime, gtfs-rt"],
+  "license": "The Unlicense",
   "require": {
     "google/protobuf": "3.10.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Google\\Transit\\Realtime\\": "src/Google/Transit/Realtime",
+      "GPBMetadata\\Src\\": "src/GPBMetadata"
+    }
   }
 }

@@ -1,7 +1,7 @@
 {
     "header": {
         "gtfsRealtimeVersion": "2.0",
-        "timestamp": "1571567967"
+        "timestamp": "1571598947"
     },
     "entity": [
         {
@@ -9,7 +9,7 @@
             "alert": {
                 "activePeriod": [
                     {
-                        "start": "1571567967"
+                        "start": "1571598947"
                     }
                 ],
                 "informedEntity": [
