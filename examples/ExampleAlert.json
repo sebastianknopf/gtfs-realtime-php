@@ -1,0 +1,44 @@
+{
+    "header": {
+        "gtfsRealtimeVersion": "2.0",
+        "timestamp": "1571567967"
+    },
+    "entity": [
+        {
+            "id": "125522",
+            "alert": {
+                "activePeriod": [
+                    {
+                        "start": "1571567967"
+                    }
+                ],
+                "informedEntity": [
+                    {
+                        "stopId": "1"
+                    },
+                    {
+                        "stopId": "2"
+                    }
+                ],
+                "cause": "OTHER_CAUSE",
+                "effect": "OTHER_EFFECT",
+                "headerText": {
+                    "translation": [
+                        {
+                            "text": "Test-Message",
+                            "language": "de"
+                        }
+                    ]
+                },
+                "descriptionText": {
+                    "translation": [
+                        {
+                            "text": "TEST MESSAGE",
+                            "language": "de"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
