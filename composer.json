@@ -3,7 +3,7 @@
   "type": "library",
   "description": "GTFS-Realtime library for PHP",
   "keywords": ["gtfs-realtime"],
-  "license": "The Unlicense",
+  "license": "Unlicense",
   "require": {
     "google/protobuf": "3.10.0"
   },
